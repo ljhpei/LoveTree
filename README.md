@@ -2,8 +2,6 @@
 
 > <b>修改config.js的配置就可以做一个属于自己的时间之树了</b>
 
-<img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
-
 ### config.js 说明
 ```text
 var config = {
