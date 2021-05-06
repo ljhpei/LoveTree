@@ -1,6 +1,6 @@
-## 爱情树
+## 时间之树
 
-> <b>修改config.js的配置就可以做一个属于自己的爱情树了,喜欢的话fork or star一下呗~</b>
+> <b>修改config.js的配置就可以做一个属于自己的时间之树了</b>
 
 <img src="https://github.com/AJLoveChina/loveBalloon/blob/master/static/github-star.png" />
 
